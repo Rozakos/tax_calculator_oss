@@ -1,0 +1,3 @@
+/home/georgia/CLionProjects/CPP_tutorial/cmake-build-debug/CMakeFiles/CPP_tutorial.dir
+/home/georgia/CLionProjects/CPP_tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/georgia/CLionProjects/CPP_tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
