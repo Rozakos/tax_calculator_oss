@@ -68,6 +68,8 @@ int main() {
 
     // Print the final price with 2 decimal places
     std::cout << "Final price in " << selectedCountry << ": " << std::fixed << std::setprecision(2) << finalPrice << std::endl;
+    std::cout << "The tax rate of " << selectedCountry << " is " << static_cast<int>(countryTax[selectedCountry] * 100) << "%. It has been remitted and will be reimbursed via OSS." << std::endl;
+
 
     return 0;
 }
